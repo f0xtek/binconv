@@ -105,7 +105,7 @@ Flags may appear anywhere on the command line, including after the positional ar
 
 ## Development
 
-Requires Go 1.25+.
+Requires Go 1.26.6+.
 
 ```sh
 make build   # build ./bin/binconv
